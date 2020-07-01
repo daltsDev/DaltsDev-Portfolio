@@ -1,0 +1,48 @@
+{
+  "clients": {
+    "Jonathan Griffin": {
+      "headline": "Jonathan Griffin PhD",
+      "image": "../images/jonathan-griffin.jpeg",
+      "content": "Client website that works within the High Performance Sports industry.",
+      "url": "https://jonathan-griffin.netlify.app/"
+    },
+    "Trish Nannery": {
+      "headline": "Trish Nannery",
+      "image": "../images/trish-nannery.png",
+      "content": "Client website that works within the field of Psychotherapy and Addiction.",
+      "url": "https://trish-nannery.com/"
+    }
+  },
+  "Sorting Algorithms": {
+    "Bubble Sort": {
+      "headline": "Bubble Sort",
+      "image": "../images/sorting-alog-visualiser.jpg",
+      "content": "Vanilla Javascript Bubble Sort Visualiser. Utilises ES6 Async/Await.",
+      "url": "https://sorting-alog-visualiser.netlify.com/",
+      "github_url": "https://github.com/daltsDev/sorting-visualiser"
+    }
+  },
+  "Vanilla JS Apps": {
+    "Spotify Clone": {
+      "headline": "Spotify Clone",
+      "image": "../images/SpotifyClone.jpeg",
+      "content": "Responsive Vanilla Javascript Spotify Clone. This clone plays copyright free music. Utilises the Web Audio API and module revealing pattern.",
+      "url": "https://daltsmusicplayer.netlify.app/",
+      "github_url": "https://github.com/daltsDev/MusicPlayer"
+    },
+    "Multi Day Weather": {
+      "headline": "Multi-Day Weather",
+      "image": "../images/Multi-Day-Weather-App.jpeg",
+      "content": "Geo-location based multi-day weather app. Utilises the Dark Sky Weather, Google Geo-Location API and Async/Await and Promise based Javascript.",
+      "url": "https://daltsmusicplayer.netlify.app/",
+      "github_url": "https://github.com/daltsDev/MusicPlayer"
+    },
+    "Hangman": {
+      "headline": "Hangman",
+      "image": "../images/Hangman.jpeg",
+      "content": "Popular childrens game, Hangman. Utilises the module revealing pattern and dynamic DOM content and manupulation.",
+      "url": "https://app-hangman.netlify.app/",
+      "github_url": "https://github.com/daltsDev/HangmanApp"
+    }
+  }
+}

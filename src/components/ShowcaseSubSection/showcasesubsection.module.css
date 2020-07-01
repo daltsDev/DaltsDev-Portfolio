@@ -1,0 +1,39 @@
+.container {
+  font-family: "Muli", sans-serif;
+  margin: 3rem 1rem 0 1rem;
+  max-width: 1440px;
+  min-width: 310px;
+  display: grid;
+  flex-direction: column;
+  grid-gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub_image {
+  max-width: 350px;
+  min-width: 310px;
+  height: auto;
+}
+.sub_content {
+  font-size: 18px;
+  color: rgb(73, 73, 73);
+}
+
+@media only screen and (min-width: 426px) {
+  .container {
+    width: 80%;
+  }
+}
+@media only screen and (min-width: 769px) {
+  .container {
+    margin: 3rem auto 0 auto;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+    justify-content: center;
+    align-items: center;
+  }
+  .sub_content {
+    font-size: 20px;
+  }
+}
