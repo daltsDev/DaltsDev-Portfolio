@@ -5,7 +5,7 @@ import Client from "../components/Client/Client"
 import SortingAlgo from "../components/SortingAlgo/SortingAlgo"
 import VanillaJSApps from "../components/VanillaJSApps/VanillaJSApps"
 import Footer from "../components/Footer/Footer"
-import SEO from "../components/old/seo"
+import SEO from "../components/seo"
 
 const IndexPage = () => {
   return (
