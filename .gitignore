@@ -68,6 +68,4 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-
-README.md
 package-lock.json
